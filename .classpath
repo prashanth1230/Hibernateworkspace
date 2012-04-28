@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/ehcache-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/hibernate-core.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/hibernate-entitymanager.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/javassist-3.3.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/slf4j-api-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/slf4j-log4j12-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/spring.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/spring-beans.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/spring-context.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/spring-context-support.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/spring-core.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/spring-orm.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/spring-tx.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/hibernatewithannotation/lib/versioncheck.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
