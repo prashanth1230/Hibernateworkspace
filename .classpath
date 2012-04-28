@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateExample/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateExample/lib/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateExample/lib/cglib.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateExample/lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateExample/lib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateExample/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateExample/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateExample/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateExample/lib/hibernate.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateExample/lib/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateExample/lib/mysql-connector-java-5[1].0.5-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateExample/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
