@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="com.fmr.pkg.Contact" table="CONTACT123">
+	   <id name="userid" type="long" column="ID" >
+	   <generator class="hilo"/>
+	  </id>
+
+	  <property name="firstName">
+		 <column name="FIRSTNAME" />
+	  </property>
+	  <property name="lastName">
+		<column name="LASTNAME"/>
+	  </property>
+	  <property name="email">
+		<column name="EMAIL"/>
+	  </property>
+   </class>
+
+  </hibernate-mapping>
