@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateSpring/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateSpring/lib/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateSpring/lib/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateSpring/lib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateSpring/lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateSpring/lib/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateSpring/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateSpring/lib/commons-pool.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateSpring/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateSpring/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateSpring/lib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateSpring/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateSpring/lib/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateSpring/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateSpring/lib/slf4j-api-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateSpring/lib/slf4j-log4j12-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/user/workspace/HibernateSpring/lib/spring.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
